@@ -6,6 +6,8 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 These are some small projects I made using JavaScript.
 
+You can find my another Javascript projects from this link : https://github.com/Cetinkaplan/JavaScript-Projects.git 
+
 ## Projects
 
 - [Pizza Menu](#pizza-menu)
